@@ -1,5 +1,5 @@
 #MY-DETAILS
 Name:Kirtan<br>
-Branch:IT
-SEM:V
-CPI:8.9
+Branch:IT<br>
+SEM:V<br>
+CPI:8.9<br>
